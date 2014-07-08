@@ -2,14 +2,15 @@
     "name": "hp-scroll",
     "comName":"HpScroll",
     "version": "1.0",
-    "desc": "",
+    "desc": "高性能scroll辅助组件",
     "tag":"高性能scroll, scroll performance, performance, scroll",
     "githubName":"ianli-sc",
     "author": {
         "name": "承风",
         "email": "libiao.lb@tmall.com",
-        "page": ""
+        "page": "https://github.com/ianli-sc/hp-scroll"
     },
+    "cover":"http://gtms03.alicdn.com/tps/i3/TB1Zt0KFVXXXXXnXpXXj1NHLpXX-604-244.png",
 	"flexComboPort":"81",
 	"reserveServerPort":"8080",
     "type": "kissy-gallery",
